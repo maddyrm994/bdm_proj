@@ -1,4 +1,4 @@
-# Leveraging Data Analytics for Optimizing Inventory and Enhancing Overall Sustainability Practices
+# Leveraging Data Analytics for Optimizing Inventory Levels and Enhancing Overall Sustainability Practices
 
 ## Overview
 This project focuses on applying data analytics to enhance the inventory management and sustainability practices at Selvamani Store, located in Tirunelveli District, Tamil Nadu. The analysis aims to improve stock efficiency and customer satisfaction while supporting eco-friendly initiatives.
